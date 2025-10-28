@@ -19,7 +19,7 @@ Backend Engineer building distributed systems at scale
 - Optimized bulk processing & Mapping from 2+ hours → 30 minutes
 
 ## 📫 Let's Connect
-- LinkedIn: [link]
-- Blog: [link] - Writing about distributed systems
-- Email: [email]
+- LinkedIn: https://www.linkedin.com/in/vtrixe/
+- X/Twitter: https://x.com/VIKRANTSHA4439
+- Email: vikrant500sharma@gmail.com
 ```
