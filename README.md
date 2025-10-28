@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Vikrant 👋
 
 Backend Engineer building distributed systems at scale
 
